@@ -1,4 +1,5 @@
-#pyroulette
+# pyroulette
+
 Basic Console Russian-Roulette game with a monster made on python.
 
 Each of you has 3 lives. The shotgun contains blank and live rounds. They are located in it in an unknown sequence. Your task is to kill the monster (and not die yourself).
